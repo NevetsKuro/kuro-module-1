@@ -1,0 +1,17 @@
+{
+  "name": "kuro-module-1",
+  "version": "1.0.0",
+  "description": "A test module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "StevenFerns <stevenfernz96@gmail.com> (https://stevenferns.me)",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
