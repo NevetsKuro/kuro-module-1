@@ -1,5 +1,8 @@
 # NODE MODULE
 
+Fetches mentioned User's repository information using axios.
+Make changes by setting username in index.js
+
 # STEPS
 
 - Initial Setup: Create an npm package/folder in local directory
