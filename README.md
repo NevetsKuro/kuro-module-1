@@ -1,7 +1,11 @@
 # NODE MODULE
 
 Fetches mentioned User's repository information using axios.
-Make changes by setting username in index.js
+
+## Current project usage:
+To fetch all repositories with extra details of the mentioned github user
+
+User can be changed by setting username in index.js file
 
 # STEPS
 
